@@ -4,19 +4,25 @@ body {
 
 header {
     height: 150px;
-    color: #808080;
+    background-color: #808080;
 }
 
 main {
     padding-top: 10px;
     min-height: 400px;
 }
+h1 {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 56px;
+    color: #B8860B
+}
 
 h1, h2, p {
     text-align: justify;
     padding-left: 60px;
     padding-right: 60px;
-    font-family: Georgia);
+    font-family: Georgia;
     font-size: 18px;
     color: #B8860B;
 }
