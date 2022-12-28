@@ -11,6 +11,7 @@ main {
     padding-top: 10px;
     min-height: 400px;
 }
+
 h1 {
     font-weight: 400;
     font-style: italic;
@@ -27,6 +28,7 @@ h1, h2, p {
     color: #B8860B;
 }
 
+/* Style for lists */
 ul, ol {
     font-family: Georgia;
     font-size: 16px;
@@ -43,4 +45,20 @@ footer {
     font-weight: 100;
     font-size: 12px;
     color: #808080;
+}
+/* Styled links using pseudo-classes */
+a:link {
+    color: #00008B;
+}
+
+a:visited {
+    color: #9400D3;
+}
+
+a:hover {
+    color: #a387e0;
+}
+
+a:active {
+    color: #4B0082;
 }
