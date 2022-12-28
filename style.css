@@ -1,1 +1,40 @@
+body {
+    background-color: #FFE4C4;
+}
 
+header {
+    height: 150px;
+    color: #808080;
+}
+
+main {
+    padding-top: 10px;
+    min-height: 400px;
+}
+
+h1, h2, p {
+    text-align: justify;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: Georgia);
+    font-size: 18px;
+    color: #B8860B;
+}
+
+ul, ol {
+    font-family: Georgia;
+    font-size: 16px;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: #B8860B;
+}
+
+footer {
+    margin-top: 10px;
+    height: 50px;
+    text-align: center;
+    font-family: Georgia;
+    font-weight: 100;
+    font-size: 12px;
+    color: #808080;
+}
